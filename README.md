@@ -1,4 +1,4 @@
-# EFI-AB350M-DS3H-V2
+# EFI-AB350M-DS3H-V2 (Ryzentosh)
 
 Arquivos de inicialização do OpenCore para as especificações:
 - GA-AB350M-DS3H V2
