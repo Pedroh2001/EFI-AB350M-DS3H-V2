@@ -1,7 +1,5 @@
 # Ryzentosh EFI para GA-AB350M-DS3H V2
 
-![Ryzentosh Logo](ryzentosh_logo.png)
-
 Bem-vindo ao repositório Ryzentosh EFI para a placa-mãe GA-AB350M-DS3H V2! Este projeto visa fornecer os arquivos de inicialização necessários para executar o macOS Ventura 13+ emulado em seu hardware baseado em Ryzen. Utilizamos o OpenCore como gerenciador de inicialização para garantir uma experiência mais estável e confiável.
 
 ## Especificações Suportadas
